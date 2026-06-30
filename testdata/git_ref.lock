@@ -1,0 +1,20 @@
+GIT
+  remote: https://github.com/ruby/rake.git
+  revision: 474500ab2eec41ef28068e18e30f84fa412a098f
+  ref: 474500ab2eec41ef28068e18e30f84fa412a098f
+  specs:
+    rake (13.4.2)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  arm64-darwin-25
+  ruby
+
+DEPENDENCIES
+  rake!
+
+BUNDLED WITH
+   2.6.9

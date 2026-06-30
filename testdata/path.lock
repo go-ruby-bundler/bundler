@@ -1,0 +1,20 @@
+PATH
+  remote: mygem
+  specs:
+    mygem (0.1.0)
+      rake (~> 13.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (13.4.2)
+
+PLATFORMS
+  arm64-darwin-25
+  ruby
+
+DEPENDENCIES
+  mygem!
+
+BUNDLED WITH
+   2.6.9
