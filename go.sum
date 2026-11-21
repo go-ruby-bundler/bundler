@@ -1,2 +1,4 @@
 github.com/go-ruby-rubygems/rubygems v0.0.0-20260916102314-9bd0bf6a00e5 h1:JnnWSLv/hr2dPp/I7IlvxmMKdZ/znoq0GsnE18Grnvs=
 github.com/go-ruby-rubygems/rubygems v0.0.0-20260916102314-9bd0bf6a00e5/go.mod h1:NuLiHni0BIuZk9tJvpfcqNgaSnFtH+wylUrz/tX9Vgo=
+github.com/go-ruby-rubygems/rubygems v0.0.0-20261120135928-14b8d25efd74 h1:/LQaUdlp7vekJJT7SaYtfC/mlrIG6PFwwIeI5c/A+mc=
+github.com/go-ruby-rubygems/rubygems v0.0.0-20261120135928-14b8d25efd74/go.mod h1:3S+AYh9BQkR4x1Z11pyUwWdSVJcrj4McTTHfw5k5rLo=
